@@ -1,0 +1,1 @@
+Purpose: Build backend and frontend and database. How to build certain parts of application

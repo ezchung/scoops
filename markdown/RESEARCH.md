@@ -1,0 +1,1 @@
+Purpose of RESEARCH.md: Any notes from articles, documentation, examples you read.
