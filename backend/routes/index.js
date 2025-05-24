@@ -6,4 +6,9 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+//get list of destinations
+router.get('/destinations',function(req,res, next){
+
+})
+
 module.exports = router;
