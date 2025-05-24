@@ -3,6 +3,12 @@ PURPOSE: System design decisions: how backend and frontend will talk, database s
 # Backend
 - ExpressJS
 
+## Models
+- User
+    - Influencer
+- Destination
+- Review
+
 # Frontend
 - React
 
