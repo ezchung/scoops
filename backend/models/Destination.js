@@ -12,6 +12,10 @@ class Destination{
         //depending on how rating is done
             //score will be based on certain things (food, customer service, vibe)
     }
+
+    updateAddress(newAddress){
+        this.address = newAddress;
+    }
 }
 
 module.exports = Destination;
